@@ -8,7 +8,7 @@
 -  Chapter 6: Command-Line Options & Variables (In Progress)  
 
 
-## 🔧 Sample Script Topics
+##  Sample Script Topics
 - FASTA file parsing for bioinformatics
 - File existence checks
 - Loops and conditionals (`if`, `for`, `while`)
